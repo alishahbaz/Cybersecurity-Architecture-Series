@@ -12,7 +12,7 @@ The goal is to make the concepts easy to understand, review, and apply when desi
 
 ## How to use this wiki
 
-1. Start with [[Home]].
+1. Start with [[Home](https://github.com/alishahbaz/Cybersecurity-Architecture-Series/wiki/)].
 2. Read [[CIA-Triad]] for the big picture.
 3. Study each pillar:
    - [[Confidentiality]]
