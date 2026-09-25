@@ -96,16 +96,6 @@ Main threats:
 See [[Availability](https://github.com/alishahbaz/Cybersecurity-Architecture-Series/wiki/Availability)] for details.
 
 ---
-
-## Page map
-
-- [[Home]]
-- [[CIA-Triad]]
-- [[Confidentiality]]
-- [[Integrity]]
-- [[Availability]]
-- [[Checklist]]
-
 ---
 
 ## Quick review question
