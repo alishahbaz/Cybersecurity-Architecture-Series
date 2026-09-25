@@ -13,12 +13,12 @@ The goal is to make the concepts easy to understand, review, and apply when desi
 ## How to use this wiki
 
 1. Start with [[Home](https://github.com/alishahbaz/Cybersecurity-Architecture-Series/wiki/)].
-2. Read [[CIA-Triad]] for the big picture.
+2. Read [[CIA-Triad](https://github.com/alishahbaz/Cybersecurity-Architecture-Series/wiki/CIA-Triad)] for the big picture.
 3. Study each pillar:
-   - [[Confidentiality]]
-   - [[Integrity]]
-   - [[Availability]]
-4. Use [[Checklist]] when reviewing an IT project.
+   - [[Confidentiality](https://github.com/alishahbaz/Cybersecurity-Architecture-Series/wiki/Confidentiality)]
+   - [[Integrity](https://github.com/alishahbaz/Cybersecurity-Architecture-Series/wiki/Integrity)]
+   - [[Availability](https://github.com/alishahbaz/Cybersecurity-Architecture-Series/wiki/Availability)]
+4. Use [[Checklist](https://github.com/alishahbaz/Cybersecurity-Architecture-Series/wiki/Checklist)] when reviewing an IT project.
 
 ---
 
@@ -52,7 +52,7 @@ Main controls:
 - Access control
 - Encryption
 
-See [[Confidentiality]] for details.
+See [[Confidentiality](https://github.com/alishahbaz/Cybersecurity-Architecture-Series/wiki/Confidentiality)] for details.
 
 ---
 
@@ -73,7 +73,7 @@ Main controls:
 - Message authentication codes
 - Immutable ledgers
 
-See [[Integrity]] for details.
+See [[Integrity](https://github.com/alishahbaz/Cybersecurity-Architecture-Series/wiki/Integrity)] for details.
 
 ---
 
@@ -93,7 +93,7 @@ Main threats:
 - SYN flood
 - Reflection and amplification attacks
 
-See [[Availability]] for details.
+See [[Availability](https://github.com/alishahbaz/Cybersecurity-Architecture-Series/wiki/Availability)] for details.
 
 ---
 
