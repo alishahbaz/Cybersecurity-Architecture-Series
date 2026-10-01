@@ -1,4 +1,4 @@
-# 02 Cybersecurity - CIA Triad Wiki
+# 02 Cybersecurity - CIA Triad
 
 This wiki explains the **CIA triad** in cybersecurity:
 
